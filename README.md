@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ksenia / Xenia</h1>
-<h3 align="center">Full-Stack developer from London, UK. I'm interested in all sorts of things like sports, music events, books, photography, cats and board games.</h3>
+<h3 align="center">Full-Stack Developer from London, UK. I'm interested in all sorts of things like sports, music events, books, travelling, photography and board games.</h3>
 
-- 🌱 I’m currently learning **React, CS50 Computer Science Course next**
+- 🌱 I’m currently learning *CS50 Computer Science Course, Python next**
 
-- 💬 Ask me about **Ruby, Ruby on Rails, HTML, SCSS**
+- 💬 Ask me about **Ruby, Ruby on Rails, JS, NextJS, React, Tailwind, Bootstrap, Vue, HTML, SCSS**
 
 - 📫 How to reach me **hello@xeniakoneva.co.uk**
 
